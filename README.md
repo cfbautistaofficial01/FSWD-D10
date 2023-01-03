@@ -16,5 +16,5 @@ Starting the django project
 -django-admin startproject your_project_name .
 
 Running the virtual server to deploy project
--python manage.py runserver
+- python manage.py runserver
 
