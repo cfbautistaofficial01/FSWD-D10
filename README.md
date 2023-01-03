@@ -1,4 +1,4 @@
-# Django-Setup ![alt text]((https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png)/to/django-python-logo.png)
+# Django-Setup ![alt text]([http://url/to/img.png](https://www.opengis.ch/wp-content/uploads/2020/04/django-python-logo.png))
 
 Creating your virtual Enviroment
 - python -m venv env
