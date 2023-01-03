@@ -6,4 +6,18 @@ Creating your virtual Enviroment
 Activating your local virtual enviroment
 - source env/Scripts/activate
 
+To deactivate virtual enviroment
+- deactivate
+
+Installing Django in virtual enviroment
+
+-pip intall django
+
+Starting the django project
+
+-django-admin startproject your_project_name .
+
+Running the virtual server to deploy project
+
+- python manage.py runserver
 
