@@ -1,4 +1,4 @@
-# Django-Setup <img src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.opengis.ch%2Fdjango-python-logo-2%2F&psig=AOvVaw0FFM1ZCAq7egSaNB1I_xwD&ust=1672852605860000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPCy0Nzzq_wCFQAAAAAdAAAAABAJ"
+# Django-Setup <img src = "h![image](https://user-images.githubusercontent.com/61376989/210409346-ce1bb92f-9ca1-44d6-9219-d5f48ba984f2.png)"/>
 
 Creating your virtual Enviroment
 - python -m venv env
