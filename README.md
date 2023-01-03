@@ -13,7 +13,7 @@
 - pip intall django
 
 #Starting the django project
--django-admin startproject your_project_name .
+- django-admin startproject your_project_name .
 
 #Running the virtual server to deploy project
 - python manage.py runserver
