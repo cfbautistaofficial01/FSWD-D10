@@ -19,5 +19,5 @@ Starting the django project
 
 Running the virtual server to deploy project
 
-- python manage.py runserver
+-python manage.py runserver
 
