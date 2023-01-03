@@ -1,4 +1,4 @@
-# django-setup
+# Django-Setup
 
 Creating your virtual Enviroment
 - python -m venv env
